@@ -3,3 +3,5 @@ Bash
 Git
 Github
 Back-end
+HTML
+CSS
