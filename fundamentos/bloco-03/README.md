@@ -1,1 +1,1 @@
-Pasta destinada aos exercícios do bloco 3 do curso de formação da Trybe.
+Pasta destinada aos exercícios do bloco 03 do curso de formação da Trybe.
