@@ -1,0 +1,37 @@
+div:hover {
+    border: 10px solid black;
+}
+div:nth-of-type(1) {
+    color: blue;
+}
+div:nth-of-type(2) {
+    color: rebeccapurple
+}
+div:nth-of-type(3) {
+    color: burlywood;
+    font-size: 50px;
+}
+div:nth-of-type(4) {
+    color: black;
+}
+div:nth-of-type(5) {
+    color: lightgreen;
+}
+div:nth-of-type(1) > h3 {
+    font-size: 23px;
+}
+div:nth-of-type(2) > h3 {
+    font-weight: 200;
+}
+div:nth-of-type(3) > h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+div:nth-of-type(4) > h3 {
+    font-stretch: extra-condensed;
+}
+div:nth-of-type(5) > h3 {
+    text-align: center;
+}
+div:nth-child(odd) h3 {
+    font-style: italic;
+}
