@@ -1,11 +1,19 @@
-const nota = 50
+// let a = 10;
+// let b = 5;
 
-if (nota >= 80) {
-    console.log("Parabens você foi aprovado!");
-}
-else if (nota < 80 && nota >= 60) {
-console.log("Você está na nossa lista de espera");
-}
-else {
-    console.log("Você foi reprovado!");
-}
+// console.log("soma " + (a+b));
+// console.log("subtração " + (a-b));
+// console.log("multiplicação " + (a*b));
+// console.log("divisão " + (a/b));
+// console.log("resto " + (a%b));
+
+const a = 4;
+const b = 5;
+
+// if (a > b) {
+//     console.log("a, " + (a) + ", é maior que b, " + (b) + ".");
+// }
+// else {
+//     console.log("b, " + (b) + ", é maior que a, " + (a) + ".");
+// }
+
