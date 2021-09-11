@@ -7,8 +7,8 @@
 // console.log("divisão " + (a/b));
 // console.log("resto " + (a%b));
 
-const a = 4;
-const b = 5;
+// const a = 4;
+// const b = 5;
 
 // if (a > b) {
 //     console.log("a, " + (a) + ", é maior que b, " + (b) + ".");
@@ -17,3 +17,8 @@ const b = 5;
 //     console.log("b, " + (b) + ", é maior que a, " + (a) + ".");
 // }
 
+// let names = ['João', 'Maria', 'Antônio', 'Margarida'];
+
+// for (let name of names) {
+//     console.log(name);
+// }
